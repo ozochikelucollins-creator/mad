@@ -1,2 +1,2 @@
-# Madmax
+# madmax
 Bank site
